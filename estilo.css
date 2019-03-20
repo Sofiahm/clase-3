@@ -1,0 +1,17 @@
+*{margin:0;padding:0;}
+
+.total{width:100%;}
+
+.medio{width:50%; Float:left;}
+
+.verde{background:green;}
+
+.rojo{background:red;}
+
+.text-center{ text-align: center;}
+
+main{width: 70%;Float: left;}
+
+aside{width: 30%;Float: left;}
+
+aside img {max-width: 100%;}
